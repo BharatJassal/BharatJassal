@@ -1,5 +1,21 @@
-👋 - Hi, I'm Bharat Jassal 
-I'm in my first year studying Computing at Queen's University as a full-stack developer.
-I'm proficient in Python, Java, HTML, and CSS using frameworks like Flask and React.
+# 💫 About Me:
+👋 Hey there, I’m **Bharat Jassal**  <br>🎓 **Second-Year Software Engineering Student at Queen's University** | 🛠 **Full-Stack & AI Developer**<br><br>I’m passionate about turning ideas into functional, impactful products from **AI apps** to full-stack web projects.  <br>Currently, I’m focused on training a machine learning model using a Kaggle dataset, exploring how to finetune it for real-world performance.<br><br>🔭 I’m currently working on: <br>- 💡 Developing a machine learning pipeline to achieve predictive performance on a Kaggle dataset, involving data cleaning, model selection, and hyperparameter optimization for real-world deployment.<br><br>👯 Collaboration Interests:<br>- 🤖 AI/ML-based mobile and web apps!<br>- 🌍 Open-source projects that make a real-world difference.<br><br>🌱 I’m currently learning:<br>- Advanced machine learning techniques, including model optimization and transfer learning.<br>- Cloud based model deployment using AWS and Supabase.<br>- App development with React Native and TensorFlow.js for AI integration.<br><br>⚡ Fun fact:<br>- I enjoy playing the piano!
 
-📫 - You can reach me at @jassal.bharat18@gmail.com!
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bharat-jassal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jassal.bharat18@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BharatJassal&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BharatJassal&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BharatJassal&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BharatJassal&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=BharatJassal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
